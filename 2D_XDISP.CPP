@@ -39,4 +39,5 @@ void main()
    cout<<" \t";
    }
   }
+  return 0;
  }
