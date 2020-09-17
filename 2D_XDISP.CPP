@@ -24,7 +24,6 @@ void main()
  abc(a,m,n);
  getch();
 }
-
  void abc(int arr[][50],int x,int y)
 {
  cout<<"\nDisplaying the X elements of the 2d matrix....\n";
